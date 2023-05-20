@@ -1,0 +1,16 @@
+1 - Instalar VS Code
+2 - Instalar Miniconda
+3 - Instalar extensão Python (Microsoft) do VS Code e a do Jupyter
+4 - Criar o ambiente da disciplina
+5 - Checar a referência do CUDA para verificar versão do Python
+    >> https://www.tensorflow.org/install/source?hl=pt-br
+6 - > conda create -n cv python=3.10 (cria um ambiente chamado cv na pasta de instalação do conda)
+7 - > conda activate cv ("entra" no ambiente, tornando ele o ativo. Tudo o que for feito, irá para ele, inclusive os pacotes instalados)
+8 - > pip install tensorflow
+9 - > pip install matplotlib
+10 - > pip install pandas
+11 - > pip install numpy
+12 - > pip install ipykernel
+13 - > Ciar um Jupyter Notebook na pasta digits/src chamado digits.ipynb
+14 - Abrir tutorial de convnet
+    >> https://www.tensorflow.org/tutorials/images/cnn?h1=en&hl=en
