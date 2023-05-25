@@ -14,3 +14,4 @@
 13 - > Ciar um Jupyter Notebook na pasta digits/src chamado digits.ipynb
 14 - Abrir tutorial de convnet
     >> https://www.tensorflow.org/tutorials/images/cnn?h1=en&hl=en
+15 - > pip install scikit-learn
