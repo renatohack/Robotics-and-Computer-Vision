@@ -3,6 +3,7 @@ https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_dir
 https://www.intodeeplearning.com/how-to-download-files-or-folders-in-gdrive-in-python/
 https://www.tensorflow.org/tutorials/load_data/images?hl=pt-br
 https://www.tensorflow.org/api_docs/python/tf/data/Dataset
+https://www.kaggle.com/code/tanmaypatil3151/rock-paper-scissor-99-accuracy-tensorflow
 
 ----------------------------------------------------------------------------------------------
 
