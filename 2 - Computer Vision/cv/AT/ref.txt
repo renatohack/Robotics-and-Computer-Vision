@@ -4,6 +4,7 @@ https://www.intodeeplearning.com/how-to-download-files-or-folders-in-gdrive-in-p
 https://www.tensorflow.org/tutorials/load_data/images?hl=pt-br
 https://www.tensorflow.org/api_docs/python/tf/data/Dataset
 https://www.kaggle.com/code/tanmaypatil3151/rock-paper-scissor-99-accuracy-tensorflow
+https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_cnn/rock_paper_scissors_cnn.ipynb#scrollTo=VGiEAOgWLt8m
 
 ----------------------------------------------------------------------------------------------
 
